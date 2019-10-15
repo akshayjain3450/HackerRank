@@ -1,3 +1,9 @@
+/**************************************************************************************
+ *                                                                                    *
+ * Randomized quick sort algorithm. It randomly selects the pivot and gives the       *
+ * average case time complexity of n*log(n).                                          *
+ *                                                                                    *
+ **************************************************************************************/
 #include <iostream>
 #include <cstdlib>  // For random function
 
