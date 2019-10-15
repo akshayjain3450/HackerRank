@@ -1,10 +1,3 @@
-/*******************************************************************************
-
-  Name : Ankit Dimri
-  Code : Randomized quick sort
-
-*******************************************************************************/
-
 #include <iostream>
 #include <cstdlib>  // For random function
 
